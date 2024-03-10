@@ -31,10 +31,10 @@ As a **senior data engineer**, my passion lies in unraveling complex problems th
 
 ## Featured Projects
 
-`[Consider adding project thumbnails or GIFs here for visual impact]`
 
-- **[Project Name 1](Link to GitHub Repo)**: A brief description with visual appeal.
-- **[Project Name 2](Link to GitHub Repo)**: A brief description with visual appeal.
+
+- **[Social Media Comment Sentiment Analysis](https://github.com/schrodingerkitkat/comment_sentiment)**: A project that leverages NLP models and libraries to perform a comprehensive analysis of text comments, focusing on sentiment, emotion, and aspect-based analysis, as well as summarization of text data. It is designed to efficiently process large datasets, providing insights into the underlying sentiments and emotional tones of textual comments.
+- **[Marine Traffic Data Pipeline](https://github.com/schrodingerkitkat/boat_eta)**: a Python application that fetches marine traffic data from the MarineTraffic API, processes the data using PySpark, saves the data to an SQL server, and visualizes the data on an interactive map using Flask and Folium..
 
 ## Connect with Me
 
