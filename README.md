@@ -17,7 +17,7 @@ As a **senior data engineer**, my passion lies in unraveling complex problems th
 
 🔭 **Projects**: Here are some of my groundbreaking projects. 
 
-`[Highlight your projects with visuals or GIFs that showcase your work]`
+<!--`[Highlight your projects with visuals or GIFs that showcase your work]`-->
 
 ## Technologies & Tools
 
