@@ -12,7 +12,6 @@
   <li>Neural Networks: Advancing my understanding and application of cutting-edge neural network architectures for more efficient data processing and predictive analysis.</li>
   <li>MLOps (Machine Learning Operations): Streamlining the lifecycle of machine learning models from development to deployment and maintenance, focusing on automation, scalability, and best practices in ML operations.</li>
   <li>Data Mesh: Embracing the decentralized socio-technical approach to data architecture and organizational design, enhancing data accessibility and autonomy across domains.</li>
-  <li>Cloud-Native Technologies for DE: Leveraging Kubernetes, serverless architectures, and cloud services (AWS, GCP, Azure) to build scalable, resilient, and cost-effective data pipelines.</li>
 </ul>
 
 <h2 align="center" style="color: #76b852;">🔭 Projects:</h2>
