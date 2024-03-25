@@ -23,12 +23,14 @@
   <br>
   <strong>Tech Stack:</strong>
   <ul>
-    <li><strong>Data Storage:</strong> AWS S3, Google Cloud Storage</li>
-    <li><strong>Data Processing:</strong> Apache Airflow, PySpark</li>
-    <li><strong>Machine Learning:</strong> PySpark MLlib, TensorFlow, PyTorch</li>
-    <li><strong>Infrastructure:</strong> Terraform</li>
-    <li><strong>APIs:</strong> Custom-built RESTful services</li>
+      <li><strong>Data Storage:</strong> AWS S3, Google Cloud Storage</li>
+      <li><strong>Data Processing:</strong> Apache Airflow, PySpark</li>
+      <li><strong>Machine Learning:</strong> PySpark MLlib, TensorFlow, PyTorch</li>
+      <li><strong>Data Architecture:</strong> Data Vault Data Warehouse Model</li>
+      <li><strong>Infrastructure:</strong> Terraform</li>
+      <li><strong>APIs:</strong> Custom-built RESTful services</li>
   </ul>
+
 </li>
 
 
