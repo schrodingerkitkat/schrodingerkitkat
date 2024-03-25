@@ -16,7 +16,21 @@
 
 <h2 align="center" style="color: #76b852;">🔭 Projects:</h2>
 <p align="center">Here are some of my groundbreaking projects.</p>
-<li><a href="https://github.com/schrodingerkitkat/welness_app_recomendations/tree/main" style="color: #333;">Personalized Mental Health App Recommendation Engine</a>:</li>
+<li>
+  <a href="https://github.com/schrodingerkitkat/welness_app_recomendations/tree/main" style="color: #333;">
+    Personalized Mental Health App Recommendation Engine
+  </a>: A scalable and secure engine that delivers personalized mental health and wellness content. By analyzing user interactions, mood tracking, and feedback, we predict the most impactful content for each individual user, ranging from meditations and sleep stories to music and educational resources.
+  <br>
+  <strong>Tech Stack:</strong>
+  <ul>
+    <li><strong>Data Storage:</strong> AWS S3, Google Cloud Storage</li>
+    <li><strong>Data Processing:</strong> Apache Airflow, PySpark</li>
+    <li><strong>Machine Learning:</strong> PySpark MLlib, TensorFlow, PyTorch</li>
+    <li><strong>Infrastructure:</strong> Terraform</li>
+    <li><strong>APIs:</strong> Custom-built RESTful services</li>
+  </ul>
+</li>
+
 
 <h2 align="center" style="color: #76b852;">Technologies & Tools</h2>
 <p align="center">
