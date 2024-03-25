@@ -16,7 +16,7 @@
 
 <h2 align="center" style="color: #76b852;">🔭 Projects:</h2>
 <p align="center">Here are some of my groundbreaking projects.</p>
-<!--`[Highlight your projects with visuals or GIFs that showcase your work]`-->
+<li><a href="https://github.com/schrodingerkitkat/welness_app_recomendations/tree/main" style="color: #333;">Personalized Mental Health App Recommendation Engine</a>:</li>
 
 <h2 align="center" style="color: #76b852;">Technologies & Tools</h2>
 <p align="center">
