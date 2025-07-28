@@ -1,56 +1,91 @@
-<h1 align="center" style="color: #76b852;">Hello there, I'm Katherine! 👋</h1>
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <h1 align="left" style="color:#8a2be2; font-size:42px; text-shadow: 2px 2px 8px rgba(0,0,0,0.1);">Hey, I’m Katerina 👋</h1>
+      <p align="left" style="font-size:17px; max-width:780px; line-height:1.55;">
+        I’m a <b style="color:#8a2be2;">Senior Data Engineer</b> & <b style="color:#8a2be2;">AI Engineer</b> on a mission to transform complex data into intelligent, production-grade systems that redefine what's possible. My playground spans <i>AWS ✕ MLOps ✕ Multimodal LLMs ✕ Real-time Streaming ✕ Autonomous Robotics</i>, and I’m perpetually chasing the next paradigm shift.
+      </p>
+      <p align="left">
+        <a href="https://www.linkedin.com/in/katerinadata" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        <a href="https://twitter.com/schrodingerkat" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+        <img src="https://img.shields.io/badge/🏠%20Los%20Angeles-34c759?style=for-the-badge" alt="Location: LA" />
+        <img src="https://img.shields.io/badge/💼%20Open%20for%20AI%20Engineering%20Roles-0a84ff?style=for-the-badge" alt="Open for roles" />
+      </p>
+    </td>
+    <td valign="top" width="30%">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=schrodingerkitkat&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="Katerina's GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schrodingerkitkat&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+        <img src="https://komarev.com/ghpvc/?username=schrodingerkitkat&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=schrodingerkitkat&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/schrodingerkitkat?style=social" alt="GitHub followers">
-</p>
+---
 
-<p align="center" style="font-size:16px; color: #333;">As a <strong style="color: #76b852;">senior data engineer</strong>, my passion lies in unraveling complex problems through <strong style="color: #76b852;">innovative, efficient, and elegant solutions</strong>. Grounded in data engineering, machine learning, and software development, I am always on the quest to be at the technological forefront, pushing the boundaries of what's possible.</p>
-
-<h2 align="center" style="color: #76b852;">🌱 Currently Exploring:</h2>
+### <p align="center" style="color:#8a2be2;">Actively Building & Researching</p>
 <ul>
-  <li>Neural Networks: Advancing my understanding and application of cutting-edge neural network architectures for more efficient data processing and predictive analysis.</li>
-  <li>MLOps (Machine Learning Operations): Streamlining the lifecycle of machine learning models from development to deployment and maintenance, focusing on automation, scalability, and best practices in ML operations.</li>
-  <li>Data Mesh: Embracing the decentralized socio-technical approach to data architecture and organizational design, enhancing data accessibility and autonomy across domains.</li>
+  <li><strong>Multimodal LLM Agents & Orchestration:</strong> A Slack-native agent translating natural language into optimized Athena SQL via GPT-4o + Claude 3 Opus, with Milvus vector search and an adaptive feedback loop.</li>
+  <li><strong>Low-Latency Transformer Inference:</strong> Benchmarking TensorRT-LLM & vLLM on AWS Inferentia 2 to hit &lt;50ms P95 response times for real-time applications.</li>
+  <li><strong>Autonomous Drone Navigation:</strong> Fusing YOLOv8, ORB-SLAM3, and custom PX4 flight control on my DJI “<em>Aurelia</em>” for object-aware path planning.</li>
+  <li><strong>Event-Driven Data Mesh:</strong> Re-architecting a monolithic Slack→Athena pipeline into Kafka/EventBridge microservices with Rust + Polars & OpenTelemetry.</li>
+  <li><strong>Topological Data Analysis:</strong> Using persistent homology & Mapper to surface hidden structural features in high-dimensional social engagement graphs.</li>
 </ul>
 
-<h2 align="center" style="color: #76b852;">🔭 Projects:</h2>
-<p align="center">Here are some of my groundbreaking projects.</p>
-<li>
-  <a href="https://github.com/schrodingerkitkat/welness_app_recomendations/tree/main" style="color: #333;">
-    Personalized Mental Health App Recommendation Engine
-  </a>: A scalable and secure engine that delivers personalized mental health and wellness content. By analyzing user interactions, mood tracking, and feedback, we predict the most impactful content for each individual user, ranging from meditations and sleep stories to music and educational resources.
-  <br>
-  <strong>Tech Stack:</strong>
-  <ul>
-      <li><strong>Data Storage:</strong> AWS S3, Google Cloud Storage</li>
-      <li><strong>Data Processing:</strong> Apache Airflow, PySpark</li>
-      <li><strong>Machine Learning:</strong> PySpark MLlib, TensorFlow, PyTorch</li>
-      <li><strong>Data Architecture:</strong> Data Vault Data Warehouse Model</li>
-      <li><strong>Infrastructure:</strong> Terraform</li>
-      <li><strong>APIs:</strong> Custom-built RESTful services</li>
-  </ul>
+---
 
-</li>
+### <p align="center" style="color:#8a2be2;">🔭 Featured Projects</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left"><a href="https://github.com/schrodingerkitkat/welness_app_recomendations">Personalized Mental-Health App Recommender</a></h4>
+      <p>Scalable engine predicting impactful wellness content (meditations, sleep stories) per user.</p>
+      <p><em><code>AWS S3</code> <code>GCS</code> <code>Airflow</code> <code>PySpark MLlib</code> <code>TensorFlow</code> <code>Terraform</code></em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left"><a href="https://github.com/schrodingerkitkat/comment_sentiment">Social Media Comment Sentiment Analysis</a></h4>
+      <p>NLP pipeline delivering sentiment, emotion & ABSA insights across millions of comments.</p>
+      <p><em><code>HuggingFace Transformers</code> <code>FastAPI</code> <code>Neo4j</code> <code>Docker</code></em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left"><a href="https://github.com/schrodingerkitkat/boat_eta">Marine Traffic Data Pipeline</a></h4>
+      <p>PySpark + Flask app streaming MarineTraffic API data into SQL Server & Folium maps.</p>
+      <p><em><code>PySpark</code> <code>Flask</code> <code>SQL Server</code> <code>Folium</code> <code>MarineTraffic API</code></em></p>
+    </td>
+  </tr>
+</table>
 
+---
 
-<h2 align="center" style="color: #76b852;">Technologies & Tools</h2>
+### <p align="center" style="color:#8a2be2;">🛠️ Tech & Toolbox</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazon-aws" alt="AWS">
-  <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" alt="Docker">
-  <img src="https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes" alt="Kubernetes">
+  <strong>Languages:</strong><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+<p align="center">
+  <strong>Cloud & Infra:</strong><br/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+</p>
+<p align="center">
+  <strong>Data & ML:</strong><br/>
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"/>
+  <img src="https://img.shields.io/badge/Polars-163054?style=for-the-badge&logo=polars&logoColor=white" alt="Polars"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
-<h2 align="center" style="color: #76b852;">Featured Projects</h2>
-
-<ul>
-  <li><a href="https://github.com/schrodingerkitkat/comment_sentiment" style="color: #333;">Social Media Comment Sentiment Analysis</a>: A project that leverages NLP models and libraries to perform a comprehensive analysis of text comments, focusing on sentiment, emotion, and aspect-based analysis, as well as summarization of text data. It is designed to efficiently process large datasets, providing insights into the underlying sentiments and emotional tones of textual comments.</li>
-  <li><a href="https://github.com/schrodingerkitkat/boat_eta" style="color: #333;">Marine Traffic Data Pipeline</a>: a Python application that fetches marine traffic data from the MarineTraffic API, processes the data using PySpark, saves the data to an SQL server, and visualizes the data on an interactive map using Flask and Folium.</li>
-</ul>
-
-<h2 align="center" style="color: #76b852;">Connect with Me</h2>
-<p align="center">
-  <a href="Your LinkedIn URL"><img src="Your LinkedIn Icon URL" alt="LinkedIn" style="width:40px;height:40px; margin: 0 10px;"></a>
-  <a href="Your Twitter URL"><img src="Your Twitter Icon URL" alt="Twitter" style="width:40px;height:40px; margin: 0 10px;"></a>
-  <a href="Your Blog URL"><img src="Your Blog Icon URL" alt="Blog" style="width:40
+---
+<p align="center" style="font-size:14px; color:#555;">
+  “Stay curious, keep shipping — and may your data always be clean.”
+</p>
