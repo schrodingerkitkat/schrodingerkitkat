@@ -24,7 +24,7 @@
 <ul>
   <li><strong>Multimodal LLM Agents & Orchestration:</strong> A Slack-native agent translating natural language into optimized Snowflake SQL through a frontier LLM ensemble, with Milvus vector search and an adaptive feedback loop.</li>
   <li><strong>Low-Latency Transformer Inference:</strong> Benchmarking TensorRT-LLM & vLLM on AWS Inferentia 2 to hit &lt;50ms P95 response times for real-time applications.</li>
-  <li><strong>Autonomous Drone Navigation:</strong> Fusing YOLOv8, ORB-SLAM3, and custom PX4 flight control on my DJI “<em>Aurelia</em>” for object-aware path planning.</li>
+  <li><strong>Autonomous Drone Navigation:</strong> Fusing YOLO11, ORB-SLAM3, and custom PX4 flight control on my DJI “<em>Aurelia</em>” for object-aware path planning.</li>
   <li><strong>Event-Driven Data Mesh:</strong> Re-architecting a monolithic Slack→Athena pipeline into Kafka/EventBridge microservices with  Polars & OpenTelemetry.</li>
   <li><strong>Topological Data Analysis:</strong> Using persistent homology & Mapper to surface hidden structural features in high-dimensional social engagement graphs.</li>
 </ul>
