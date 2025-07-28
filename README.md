@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="top" width="70%">
-      <h1 align="left" style="color:#8a2be2; font-size:42px; text-shadow: 2px 2px 8px rgba(0,0,0,0.1);">Hello there, I’m Katerina 👋</h1>
+      <h1 align="left" style="color:#8a2be2; font-size:42px; text-shadow: 2px 2px 8px rgba(0,0,0,0.1);">Hello there, I’m Katherine 👋</h1>
       <p align="left" style="font-size:17px; max-width:780px; line-height:1.55;">
         I’m a <b style="color:#8a2be2;">Senior Data Engineer</b> & <b style="color:#8a2be2;">AI Engineer</b> on a mission to transform complex data into intelligent, production-grade systems that redefine what's possible. My playground spans <i>AWS ✕ MLOps ✕ Multimodal LLMs ✕ Real-time Streaming ✕ Autonomous Robotics</i>, and I’m perpetually chasing the next paradigm shift.
       </p>
