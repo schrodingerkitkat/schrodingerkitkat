@@ -1,4 +1,4 @@
-# Katerina
+# Katherine M
 
 **Lead AI Engineer** · Los Angeles
 
