@@ -1,6 +1,6 @@
 # Katherine M
 
-**Lead AI Engineer** · Los Angeles
+**Data+AI Engineer** · Los Angeles
 
 Building production AI systems — from on-device ML to cloud-scale data infrastructure. Currently focused on RAG architectures, real-time video processing, and the end-to-end tooling that makes AI products actually ship.
 
